@@ -1,0 +1,276 @@
+<SiebelMessage>
+	<_sblesc_und_undPROPERTIES_und_und>
+		<TargetServerPath />
+		<SourceServiceMethod />
+		<SchemaVersion>49.9.9.167</SchemaVersion>
+		<SRFVersion>43|1526281935|1526382564</SRFVersion>
+		<SessionId>1-FOG4E5</SessionId>
+		<AcknowledgementWorkflow>UDA Acknowledgement</AcknowledgementWorkflow>
+		<PostProcessWorkflow>Testing</PostProcessWorkflow>
+		<Asynchronous>Y</Asynchronous>
+		<TransactionLogFileName>1-FOG4E5</TransactionLogFileName>
+		<TransactionName>LOV</TransactionName>
+		<AsyncExportFile>N</AsyncExportFile>
+		<UserName />
+		<Password />
+		<TargetServiceName />
+		<AsyncDataPrep>Y</AsyncDataPrep>
+		<TargetWorkflow>UDA Target Workflow</TargetWorkflow>
+		<EAIQueueType>On Error</EAIQueueType>
+		<TargetServiceMethod />
+		<SourceServiceName />
+		<TargetSubsystem>UDADeploy</TargetSubsystem>
+		<Description />
+		<SessionProjectName>16.05.2018 MSOKOLOV</SessionProjectName>
+		<ExportFilePath>C:\Siebel\LETO\Client\TEMP\New</ExportFilePath>
+		<TransactionLogFilePath>C:\Siebel\LETO\Client\TEMP\1-FOG4E5.log</TransactionLogFilePath>
+		<TransactionId>1-FOG4E6</TransactionId>
+	</_sblesc_und_undPROPERTIES_und_und>
+	<EAIMessage>
+		<_sblesc_und_undPROPERTIES_und_und>
+			<SessionItemName>LOV</SessionItemName>
+			<SessionName>EMT Session</SessionName>
+			<DataTypeName>LOV</DataTypeName>
+			<MessageId />
+			<GroupName>LOV</GroupName>
+			<MessageType>Integration Object</MessageType>
+			<IntObjectName>UDA List Of Values</IntObjectName>
+			<IntObjectFormat>Siebel Hierarchical</IntObjectFormat>
+			<EAIMethod>Synchronize</EAIMethod>
+		</_sblesc_und_undPROPERTIES_und_und>
+		<ListOfUDA_spcList_spcOf_spcValues>
+			<List_spcOf_spcValues_spcParent_spc_lprUDA_rpr>
+				<_sblesc_und_undPROPERTIES_und_und>
+					<Order_spcBy>0</Order_spcBy>
+					<ATC_spcRelease>23.0</ATC_spcRelease>
+					<Value>ATC_CHECK_LOAD_LOV</Value>
+					<Translate>Y</Translate>
+					<High />
+					<Multilingual>N</Multilingual>
+					<Modifiable>N</Modifiable>
+					<Class_spcCode />
+					<Type>LOV_TYPE</Type>
+					<Low />
+					<Active>Y</Active>
+					<Replication_spcLevel>All</Replication_spcLevel>
+					<Name>ATC_CHECK_LOAD_LOV</Name>
+					<Description />
+				</_sblesc_und_undPROPERTIES_und_und>
+				<ListOfList_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+					<List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+						<_sblesc_und_undPROPERTIES_und_und>
+							<Order_spcBy />
+							<ATC_spcRelease>23.0</ATC_spcRelease>
+							<Value>Двас</Value>
+							<Translate>Y</Translate>
+							<Parent_spcLanguage />
+							<Language>ENU</Language>
+							<High />
+							<Default_spcLIC_spcFlag>N</Default_spcLIC_spcFlag>
+							<Multilingual>N</Multilingual>
+							<Modifiable>N</Modifiable>
+							<Parent_spcValue />
+							<Parent />
+							<Parent_spcType />
+							<Target_spcLow />
+							<Class_spcCode />
+							<Type>ATC_CHECK_LOAD_LOV</Type>
+							<Low />
+							<Parent_spcSub_spcType />
+							<Target_spcHigh />
+							<Parent_spcOrganization />
+							<Sub_spcType />
+							<Weighting_spcFactor />
+							<Active>Y</Active>
+							<Replication_spcLevel>All</Replication_spcLevel>
+							<Organization />
+							<Name>Two</Name>
+							<Description />
+						</_sblesc_und_undPROPERTIES_und_und>
+						<ListOfList_spcOf_spcValues_spcRelationship />
+					</List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+					<List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+						<_sblesc_und_undPROPERTIES_und_und>
+							<Order_spcBy />
+							<ATC_spcRelease>23.0</ATC_spcRelease>
+							<Value>Один</Value>
+							<Translate>Y</Translate>
+							<Parent_spcLanguage />
+							<Language>RUS</Language>
+							<High />
+							<Default_spcLIC_spcFlag>N</Default_spcLIC_spcFlag>
+							<Multilingual>N</Multilingual>
+							<Modifiable>N</Modifiable>
+							<Parent_spcValue />
+							<Parent />
+							<Parent_spcType />
+							<Target_spcLow />
+							<Class_spcCode />
+							<Type>ATC_CHECK_LOAD_LOV</Type>
+							<Low />
+							<Parent_spcSub_spcType />
+							<Target_spcHigh />
+							<Parent_spcOrganization />
+							<Sub_spcType />
+							<Weighting_spcFactor />
+							<Active>Y</Active>
+							<Replication_spcLevel>All</Replication_spcLevel>
+							<Organization />
+							<Name>One</Name>
+							<Description />
+						</_sblesc_und_undPROPERTIES_und_und>
+						<ListOfList_spcOf_spcValues_spcRelationship />
+					</List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+				<List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+						<_sblesc_und_undPROPERTIES_und_und>
+							<Order_spcBy />
+							<ATC_spcRelease>23.0</ATC_spcRelease>
+							<Value>Четыре</Value>
+							<Translate>Y</Translate>
+							<Parent_spcLanguage />
+							<Language>RUS</Language>
+							<High />
+							<Default_spcLIC_spcFlag>N</Default_spcLIC_spcFlag>
+							<Multilingual>N</Multilingual>
+							<Modifiable>N</Modifiable>
+							<Parent_spcValue />
+							<Parent />
+							<Parent_spcType />
+							<Target_spcLow />
+							<Class_spcCode />
+							<Type>ATC_CHECK_LOAD_LOV</Type>
+							<Low />
+							<Parent_spcSub_spcType />
+							<Target_spcHigh />
+							<Parent_spcOrganization />
+							<Sub_spcType />
+							<Weighting_spcFactor />
+							<Active>Y</Active>
+							<Replication_spcLevel>All</Replication_spcLevel>
+							<Organization />
+							<Name>Four</Name>
+							<Description />
+						</_sblesc_und_undPROPERTIES_und_und>
+						<ListOfList_spcOf_spcValues_spcRelationship />
+					</List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+				</ListOfList_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+			</List_spcOf_spcValues_spcParent_spc_lprUDA_rpr>
+			<List_spcOf_spcValues_spcParent_spc_lprUDA_rpr>
+				<_sblesc_und_undPROPERTIES_und_und>
+					<Order_spcBy />
+					<ATC_spcRelease>23.0</ATC_spcRelease>
+					<Value>ATC_MSOK_CHECK</Value>
+					<Translate>Y</Translate>
+					<High />
+					<Multilingual>N</Multilingual>
+					<Modifiable>N</Modifiable>
+					<Class_spcCode />
+					<Type>LOV_TYPE</Type>
+					<Low />
+					<Active>Y</Active>
+					<Replication_spcLevel>All</Replication_spcLevel>
+					<Name>ATC_MSOK_CHECK</Name>
+					<Description />
+				</_sblesc_und_undPROPERTIES_und_und>
+				<ListOfList_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+					<List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+						<_sblesc_und_undPROPERTIES_und_und>
+							<Order_spcBy />
+							<ATC_spcRelease>23.0</ATC_spcRelease>
+							<Value>Дом</Value>
+							<Translate>Y</Translate>
+							<Parent_spcLanguage />
+							<Language>RUS</Language>
+							<High />
+							<Default_spcLIC_spcFlag>N</Default_spcLIC_spcFlag>
+							<Multilingual>N</Multilingual>
+							<Modifiable>N</Modifiable>
+							<Parent_spcValue />
+							<Parent />
+							<Parent_spcType />
+							<Target_spcLow />
+							<Class_spcCode />
+							<Type>ATC_MSOK_CHECK</Type>
+							<Low />
+							<Parent_spcSub_spcType />
+							<Target_spcHigh />
+							<Parent_spcOrganization />
+							<Sub_spcType />
+							<Weighting_spcFactor />
+							<Active>Y</Active>
+							<Replication_spcLevel>All</Replication_spcLevel>
+							<Organization />
+							<Name>House</Name>
+							<Description />
+						</_sblesc_und_undPROPERTIES_und_und>
+						<ListOfList_spcOf_spcValues_spcRelationship />
+					</List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+					<List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+						<_sblesc_und_undPROPERTIES_und_und>
+							<Order_spcBy />
+							<ATC_spcRelease>23.0</ATC_spcRelease>
+							<Value>Школа</Value>
+							<Translate>Y</Translate>
+							<Parent_spcLanguage />
+							<Language>RUS</Language>
+							<High />
+							<Default_spcLIC_spcFlag>N</Default_spcLIC_spcFlag>
+							<Multilingual>N</Multilingual>
+							<Modifiable>N</Modifiable>
+							<Parent_spcValue />
+							<Parent />
+							<Parent_spcType />
+							<Target_spcLow />
+							<Class_spcCode />
+							<Type>ATC_MSOK_CHECK</Type>
+							<Low />
+							<Parent_spcSub_spcType />
+							<Target_spcHigh />
+							<Parent_spcOrganization />
+							<Sub_spcType />
+							<Weighting_spcFactor />
+							<Active>Y</Active>
+							<Replication_spcLevel>All</Replication_spcLevel>
+							<Organization />
+							<Name>School</Name>
+							<Description />
+						</_sblesc_und_undPROPERTIES_und_und>
+						<ListOfList_spcOf_spcValues_spcRelationship />
+					</List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+				<List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+						<_sblesc_und_undPROPERTIES_und_und>
+							<Order_spcBy />
+							<ATC_spcRelease>23.0</ATC_spcRelease>
+							<Value>Работа</Value>
+							<Translate>Y</Translate>
+							<Parent_spcLanguage />
+							<Language>RUS</Language>
+							<High />
+							<Default_spcLIC_spcFlag>N</Default_spcLIC_spcFlag>
+							<Multilingual>N</Multilingual>
+							<Modifiable>N</Modifiable>
+							<Parent_spcValue />
+							<Parent />
+							<Parent_spcType />
+							<Target_spcLow />
+							<Class_spcCode />
+							<Type>ATC_MSOK_CHECK</Type>
+							<Low />
+							<Parent_spcSub_spcType />
+							<Target_spcHigh />
+							<Parent_spcOrganization />
+							<Sub_spcType />
+							<Weighting_spcFactor />
+							<Active>Y</Active>
+							<Replication_spcLevel>All</Replication_spcLevel>
+							<Organization />
+							<Name>Work</Name>
+							<Description />
+						</_sblesc_und_undPROPERTIES_und_und>
+						<ListOfList_spcOf_spcValues_spcRelationship />
+					</List_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+				</ListOfList_spcOf_spcValues_spcChild_spc_lprUDA_rpr>
+			</List_spcOf_spcValues_spcParent_spc_lprUDA_rpr>
+		</ListOfUDA_spcList_spcOf_spcValues>
+	</EAIMessage>
+</SiebelMessage>
